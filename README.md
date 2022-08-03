@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello World! 👋
 
 <!--
 **UtsavMehta1902/UtsavMehta1902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Myself Utsav Mehta
+
+- 🔭 I’m currently working on Life.
+- 🌱 I’m currently learning Machine Learning and it's Applications.
+- 👯 I’m looking to collaborate on any and every interesting thing.
+- 📫 How to reach me: utsavmehta192002@gmail.com
+- 😄 Pronouns: Explorer, IITian, ML enthusiast
+- ⚡ Fun fact: There is no fun fact!
