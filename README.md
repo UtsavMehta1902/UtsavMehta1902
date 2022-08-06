@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Blockchain / Machine Learning.
 - 👯 I’m looking to collaborate on any and every interesting thing.
 - 📫 How to reach me: utsavmehta192002@gmail.com
-- 😄 Pronouns: Explorer, IITian, ML enthusiast
+- 😄 Pronouns: Explorer, IITian
 - ⚡ Fun fact: There is no fun fact!
