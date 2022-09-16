@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
 
 ### Myself Utsav Mehta
@@ -23,3 +24,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: utsavmehta192002@gmail.com
 - 😄 Pronouns: Explorer, IITian
 - ⚡ Fun fact: There is no fun fact!
+- 😃 Know more about me - https://portfolio-utsav-mehta.herokuapp.com/
