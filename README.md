@@ -10,8 +10,8 @@
 - 😃 Know more about me - https://portfolio-utsav-mehta.herokuapp.com/
 
 <p align="center">
-    <a href="https://wakatime.com/@ea16762b-aa50-4142-8fd0-b4683ff2bed6"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
-    <a href="https://github.com/umang-singla/">
+    <a href="https://wakatime.com/@betaThetha"><img src="https://wakatime.com/badge/user/ea16762b-aa50-4142-8fd0-b4683ff2bed6.svg" alt="Total time coded since Apr 7 2022" /></a>
+    <a href="https://github.com/UtsavMehta1902/">
       <img alt="Visitors" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FUtsavMehta19021212%2Fhit-counter" />
     </a>
     <br />
